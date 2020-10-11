@@ -42,6 +42,7 @@ namespace LandingPage.Controllers
 
         public IActionResult LandingPage()
         {
+
             return View();
         }
     }
