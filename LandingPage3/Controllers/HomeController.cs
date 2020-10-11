@@ -13,6 +13,7 @@ namespace LandingPage3.Controllers
         public IActionResult LandPage()
         {
 
+
             return View();
         }
 
